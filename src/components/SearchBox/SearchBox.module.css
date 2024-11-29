@@ -1,0 +1,11 @@
+.searchBox {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  border: 1px solid #dfe1e5;
+  font-size: 16px;
+}
+.span {
+  font-weight: bold;
+}
